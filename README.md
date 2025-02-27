@@ -2,7 +2,7 @@ NYC Airbnb Analysis - Power BI Project
 Project Overview
 This Power BI project utilizes the AB_NYC_2019 dataset, which contains Airbnb listing data for New York City from 2019. The dataset provides valuable insights into pricing trends, host activity, property availability, and customer engagement across different boroughs and neighborhoods. By leveraging Power BI, we transform raw data into interactive visualizations and reports, enabling a deeper understanding of the short-term rental market in NYC.
 
-🔗 Project Link: GitHub Repository ()
+🔗 Project Link: GitHub Repository (https://github.com/athulkrishna01/PowerBI_project_2)
 
 Objective
 The primary goal of this project is to analyze Airbnb listings in New York City, identify key trends, and create interactive Power BI dashboards that provide actionable insights. This analysis can help:
@@ -57,7 +57,7 @@ Relationship between price, availability, and review activity.
 
 
 Contributors
-This project was developed by [Your Name]. Contributions and feedback are welcome!
+This project was developed by [athul7575@gmail.com]. Contributions and feedback are welcome!
 
 License
 This project is open-source and available for educational and research purposes.
